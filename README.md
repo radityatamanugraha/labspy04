@@ -6,5 +6,6 @@
 # Latihan
 ![gambar](Praktikum9/ss2.png)
 
-# Akses List
+# Flowchart
+![gambar](Praktikum9/flowcart.png)
 ## 
