@@ -1,6 +1,6 @@
 # praktikum9
 # Latihan
-![gambar](Praktikum9/ss1.png)
+![gambar](Praktikum9/ss12.png)
 
 # Praktikum
 # Latihan
